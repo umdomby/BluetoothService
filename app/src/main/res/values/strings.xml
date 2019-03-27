@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothService</string>
+    <string name="stop">Stop service</string>
+</resources>
